@@ -1,1 +1,1 @@
-https://mariannaiu.github.io/my-cv/
+https://mariannaiu.github.io/my-cv/cv.html
